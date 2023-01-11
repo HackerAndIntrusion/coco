@@ -1,2 +1,2 @@
 remove
-moa 40
+moa4000000
