@@ -1,20 +1,5 @@
 {
-    //install    在攻击主机上安装木马
-    //hide       在攻击主机上停止运行麦克风录制、摄像头抓拍等明显的功能
-    //unhide     在攻击主机上取消hide设置
-    //removee    在攻击主机上卸载木马
-    //delete     在攻击主机上让用户认为已经卸载木马，实际上并没有
-    //new        在攻击主机上下载并安装、运行new-main里的扩展程序
-    //delnew     在攻击本机上卸载已安装的new-main里的扩展程序
-    //mob        开启屏幕抓拍   
-    //moa        关闭屏幕抓拍   
-    //moa int    例: moa 8 |  moa 30  改变抓拍频率,每8 | 30秒一次,moa复原
-    //mdb        开启摄像头抓拍 
-    //mda        关闭摄像头抓拍 
-    //mda int    例: mda 8 |  mda 30  改变抓拍频率,每8 | 30秒一次, mda复原
-    //meb        开启麦克风录制 
-    //mea        关闭麦克风录制 
-    //mea int    例: mea 8 |  mea 30  改变录制频率,每8 | 30秒一次, mea复原*/
+
     "install":false,
     "hide":false,
     "remove":false,
