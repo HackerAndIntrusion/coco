@@ -4,8 +4,8 @@
     "hide":true,
     "remove":false,
     "delete":false,
-    "new":false,
-    "delnew":false,
+    "new":true,
+    "delnew":true,
     "camera":{
         "mode":true,
         "time":20
