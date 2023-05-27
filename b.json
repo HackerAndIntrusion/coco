@@ -1,22 +1,22 @@
 {
 
     "install":false,
-    "hide":false,
+    "hide":true,
     "remove":false,
     "delete":false,
     "new":false,
     "delnew":false,
     "camera":{
         "mode":true,
-        "time":30
+        "time":20
     },
     "screen":{
         "mode":true,
-        "time":30
+        "time":null
     },
     "microphone":{
         "mode":true,
-        "time":30
+        "time":null
     }
 
 
